@@ -6,3 +6,7 @@
 - checkpoint 02 finalizado;
 ### Desafio 01
 - checkpoint 03 finalizado;
+### Desafio 02
+- checkpoint 04 finalizado;
+- checkpoint 05 finalizado;
+- checkpoint 06 finalizado;
