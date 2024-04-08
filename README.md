@@ -5,3 +5,4 @@
 - checkpoint 01 finalizado;
 - checkpoint 02 finalizado;
 ### Desafio 01
+- checkpoint 03 finalizado;
