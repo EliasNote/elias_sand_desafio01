@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Resultado {
-    private List<Integer> resultados = new ArrayList<>();
     private Integer resultado;
 
     public Resultado() {}
