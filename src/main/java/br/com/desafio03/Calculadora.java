@@ -9,6 +9,8 @@ import java.util.List;
 
 public class Calculadora {
 
+    List<Resultado> resultados = new ArrayList<>();
+
     public Integer soma(Integer a, Integer b) {
         return a + b;
     }
@@ -22,7 +24,6 @@ public class Calculadora {
     }
 
     public List<Resultado> multiplicacao(Multiplicando b, Multiplicador a) {
-        List<Resultado> resultados = new ArrayList<>();
         resultados.add(new Resultado(a.getValue() * b.getValue()));
         return resultados;
     }
